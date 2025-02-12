@@ -9,6 +9,7 @@ body {
     align-items: center;
     flex-direction: column;
     background: #6943FF;
+    width: fit-content;
     color: white;
 }
 
